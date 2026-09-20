@@ -1,2 +1,2 @@
-# ML--Course
+# MACHINE LEARNING--Course
 machine learning
